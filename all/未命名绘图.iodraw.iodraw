@@ -577,7 +577,7 @@
         <mxCell id="13" value="Start" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="526.5000000000018" y="340.00000000000006" width="80.00000000000006" height="40.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="ETA" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1;rotation=5;" parent="1" vertex="1">
+        <mxCell id="14" value="ETA" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="606.5000000000019" y="340.0000000000001" width="80.00000000000006" height="40.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="15" value="23 Apr 12" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
